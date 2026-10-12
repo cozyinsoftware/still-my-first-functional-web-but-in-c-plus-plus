@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Code Project/Vibecode/website/cpp_server/build/cmake_install.cmake",
+		"D:/Code Project/Vibecode/website/cpp_server/build/_deps/nlohmann_json-build/cmake_install.cmake",
+		"D:/Code Project/Vibecode/website/cpp_server/build/_deps/inja-build/cmake_install.cmake",
+		"D:/Code Project/Vibecode/website/cpp_server/build/_deps/crow-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

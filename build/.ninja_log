@@ -1,0 +1,13 @@
+# ninja log v7
+14	768	8135100408268077	CMakeFiles/quicktools_server.dir/src/utils/base64.cpp.obj	2d8982aca682ceb9
+22	1074	8135100408344716	CMakeFiles/quicktools_server.dir/src/crypto/sha256.cpp.obj	e79ad763006694c9
+31	1108	8135100408435369	CMakeFiles/quicktools_server.dir/src/crypto/token.cpp.obj	c8633bd0785ae54a
+58	1238	8135100408708421	CMakeFiles/quicktools_server.dir/src/qr/qr_service.cpp.obj	e09608e854514cbf
+39	1577	8135100408521006	CMakeFiles/quicktools_server.dir/src/db/database.cpp.obj	96a54276fc6c6be5
+48	2331	8135100408613508	CMakeFiles/quicktools_server.dir/src/qr/qrcodegen.cpp.obj	ab467238edc784b9
+76	2682	8135100408888624	CMakeFiles/quicktools_server.dir/src/video/video_jobs.cpp.obj	8ffe6c5422a97778
+67	6140	8135100408789162	CMakeFiles/quicktools_server.dir/src/video/ffmpeg_runner.cpp.obj	49b824e009cbb9d5
+14	26315	8135102092964973	CMakeFiles/quicktools_server.dir/src/main.cpp.obj	7f71b397029cade1
+26319	26618	8135102356018594	quicktools_server.exe	bdc459793c33e9d
+13	24278	8135106964176055	CMakeFiles/quicktools_server.dir/src/main.cpp.obj	7f71b397029cade1
+24278	24528	8135107206828389	quicktools_server.exe	bdc459793c33e9d
